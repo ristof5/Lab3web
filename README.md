@@ -39,6 +39,22 @@ Untuk mengubah data kita harus membuat file ubah.php
 ![image](https://user-images.githubusercontent.com/116700466/226241759-d566514f-b1d0-46b3-82b0-116c7b8f659a.png)
 ![image](https://user-images.githubusercontent.com/116700466/226241788-c6190eb7-a4af-491e-8cca-f4de18cc8cba.png)
 
+Tampilan dalam web
+![image](https://user-images.githubusercontent.com/116700466/226609252-37c46b6b-db96-4399-98e6-9fa87ac5acfe.png)
+
+Selanjutnya membuat file hapus.php agar bisa menghapus sebuah data
+![image](https://user-images.githubusercontent.com/116700466/226609958-690e7e31-ba35-4a4e-8c42-6bcf97812c36.png)
+
+Selanjutnya saya menambahkan tampilan table dalam menu. dengan cara menambahkan style.css
+![image](https://user-images.githubusercontent.com/116700466/226609911-280c14ec-7818-4a3a-ba2a-d18ade4a18eb.png)
+
+Tampilan final dari websitenya
+![image](https://user-images.githubusercontent.com/116700466/226610130-d2225cbc-dbfa-49f1-b899-0dd6142fce6d.png)
+
+terima kasih
+
+
+
 
 
 
